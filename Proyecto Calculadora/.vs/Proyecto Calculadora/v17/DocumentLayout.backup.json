@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanie\\source\\ds4\\Proyecto Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2E3FE9-593C-422B-94DA-9A1278ECA72E}|Proyecto Calculadora\\Proyecto Calculadora.csproj|c:\\users\\yanie\\source\\ds4\\proyecto calculadora\\proyecto calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2E3FE9-593C-422B-94DA-9A1278ECA72E}|Proyecto Calculadora\\Proyecto Calculadora.csproj|solutionrelative:proyecto calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2E3FE9-593C-422B-94DA-9A1278ECA72E}|Proyecto Calculadora\\Proyecto Calculadora.csproj|c:\\users\\yanie\\source\\ds4\\proyecto calculadora\\proyecto calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2E3FE9-593C-422B-94DA-9A1278ECA72E}|Proyecto Calculadora\\Proyecto Calculadora.csproj|solutionrelative:proyecto calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2E3FE9-593C-422B-94DA-9A1278ECA72E}|Proyecto Calculadora\\Proyecto Calculadora.csproj|c:\\users\\yanie\\source\\ds4\\proyecto calculadora\\proyecto calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC2E3FE9-593C-422B-94DA-9A1278ECA72E}|Proyecto Calculadora\\Proyecto Calculadora.csproj|solutionrelative:proyecto calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yanie\\source\\ds4\\Proyecto Calculadora\\Proyecto Calculadora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Calculadora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\yanie\\source\\ds4\\Proyecto Calculadora\\Proyecto Calculadora\\Form1.Designer.cs*",
+              "RelativeToolTip": "Proyecto Calculadora\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T06:53:16.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yanie\\source\\ds4\\Proyecto Calculadora\\Proyecto Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\yanie\\source\\ds4\\Proyecto Calculadora\\Proyecto Calculadora\\Form1.cs",
+              "RelativeToolTip": "Proyecto Calculadora\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T06:21:26.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yanie\\source\\ds4\\Proyecto Calculadora\\Proyecto Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\yanie\\source\\ds4\\Proyecto Calculadora\\Proyecto Calculadora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto Calculadora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T06:18:08.762Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
