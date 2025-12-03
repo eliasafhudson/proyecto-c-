@@ -214,5 +214,10 @@ namespace Proyecto_Calculadora
                 MessageBox.Show("Registros eliminados.");
             }
         }
+
+        private void panelBotones_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

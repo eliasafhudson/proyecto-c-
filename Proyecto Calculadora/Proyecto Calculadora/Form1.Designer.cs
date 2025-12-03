@@ -48,7 +48,6 @@ namespace Proyecto_Calculadora
             // panelBotones
             // 
             this.panelBotones.ColumnCount = 4;
-            this.panelBotones.ColumnStyles.Clear();
             this.panelBotones.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.panelBotones.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.panelBotones.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
@@ -56,7 +55,6 @@ namespace Proyecto_Calculadora
             this.panelBotones.Location = new System.Drawing.Point(12, 70);
             this.panelBotones.Name = "panelBotones";
             this.panelBotones.RowCount = 6;
-            this.panelBotones.RowStyles.Clear();
             this.panelBotones.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.panelBotones.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.panelBotones.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
@@ -65,6 +63,7 @@ namespace Proyecto_Calculadora
             this.panelBotones.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.panelBotones.Size = new System.Drawing.Size(336, 320);
             this.panelBotones.TabIndex = 1;
+            this.panelBotones.Paint += new System.Windows.Forms.PaintEventHandler(this.panelBotones_Paint);
             // 
             // Form1
             // 
